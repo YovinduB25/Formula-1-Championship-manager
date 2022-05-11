@@ -3,7 +3,7 @@
 
 **Project Idea**
 
-Formula1ChampionshipManager is a class that extends the interface ChampionshipManager. The Formula1ChampionshipManager class manages a number of Formula 1 drivers and vehicles (constructors, i.e. car manufacturers) that compete in the championship. Each driver belongs to only one constructor team (for example, Ferrari), and each constructor team has only one driver.
+Formula 1 Championship Manager is a class that extends the interface Championship Manager. The Formula 1 Championship Manager class manages a number of Formula 1 drivers and vehicles (constructors, i.e. car manufacturers) that compete in the championship. Each driver belongs to only one constructor team (for example, Ferrari), and each constructor team has only one driver.
 
 ![Capture](https://user-images.githubusercontent.com/99184773/167910359-e2944e56-0b01-4e12-9446-e10029686d2c.PNG)
 
