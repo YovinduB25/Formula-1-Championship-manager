@@ -1,7 +1,7 @@
 # Formula-1-Championship-manager
 **F1 Championship Management system developed by Java using object-oriented programming concepts**
 
-**Idea**
+**Project Idea**
 
 Formula1ChampionshipManager is a class that extends the interface ChampionshipManager. The Formula1ChampionshipManager class manages a number of Formula 1 drivers and vehicles (constructors, i.e. car manufacturers) that compete in the championship. Each driver belongs to only one constructor team (for example, Ferrari), and each constructor team has only one driver.
 
